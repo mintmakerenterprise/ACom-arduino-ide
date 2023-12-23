@@ -16,7 +16,7 @@
           "url": "https://github.com/mintmakerenterprise/ACom-arduino-ide/blob/32f5fd773d56cc6a067d814cfd5711d0b5968590/ACom-1.0.0.zip",
           "archiveFileName": "ACom-1.0.0.zip",
           "checksum": "cafe1942914ddc5dd8226a3e5156782d",
-          "size":133590",
+          "size":"133590",
           "boards": [
             {
               "name": "ACom"
