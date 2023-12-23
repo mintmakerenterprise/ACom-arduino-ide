@@ -22,6 +22,9 @@
               "name": "ACom"
             }
           ],
+          "toolsDependencies":
+          [
+          ]
         }
       ],
       "tools":
