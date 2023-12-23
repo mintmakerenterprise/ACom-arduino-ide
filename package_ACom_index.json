@@ -15,7 +15,7 @@
           "category": "Contributed",
           "url": "https://github.com/mintmakerenterprise/ACom-arduino-ide/raw/main/ACom-1.0.0.zip",
           "archiveFileName": "ACom-1.0.0.zip",
-          "checksum": "cafe1942914ddc5dd8226a3e5156782d",
+          "checksum": "SHA-256:55edbe42e293ce2e2111ee86c5fdaaa4f1fbf64747ebf42664cf12bc0056ceef",
           "size": "8115256",
           "boards": [
             {
